@@ -11,5 +11,9 @@ The dataset used in this project is historical stock price data, which is prepro
 
 **Results:**
 The model achieved satisfactory results in predicting stock prices. Below is an example of the output graph, showing the actual and predicted stock prices:
+
+Tesla stock price:
 ![result#2](https://github.com/user-attachments/assets/eabc7387-f261-475d-b39e-d234f5af5bd7)
+
+Google stock price:
 ![result#1](https://github.com/user-attachments/assets/428e6ebf-17b7-405c-b22d-906bf23d89bc)
